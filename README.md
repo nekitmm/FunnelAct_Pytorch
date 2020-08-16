@@ -11,3 +11,12 @@ Note that from the file resnet_frelu.py you can call ResNet18, ResNet34, ResNet5
 but the weights in this repo only available for ResNet50 and I never tried to train other models,
 so no guaranties there!
 
+The code in this repo is based on pytorch imagenet example:
+
+https://github.com/pytorch/examples/tree/master/imagenet
+
+and original implementation of Funnel Activation in Megengine:
+
+https://github.com/megvii-model/FunnelAct
+
+Enjoy!
