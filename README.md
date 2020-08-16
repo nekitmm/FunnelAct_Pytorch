@@ -10,3 +10,4 @@ Validation results are listed below:
 Note that from the file resnet_frelu.py you can call ResNet18, ResNet34, ResNet50, ResNet101 and ResNet152
 but the weights in this repo only available for ResNet50 and I never tried to train other models,
 so no guaranties there!
+
